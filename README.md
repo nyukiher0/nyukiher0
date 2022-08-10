@@ -24,6 +24,6 @@ ___
 
 | #   | 学習項目         | 実施内容                                                                                                                                                                                            | 
 | --- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
-| 1   | English          | 1.  Master the Coding Interview: Big Tech (FAANG) Interviews (Udemy) のシャドーイング<br>2. English Grammar in Use Book、英語耳 発音ができるとリスニングができるによる文法・リスニング力強化<br>3.  | 
+| 1   | English          | 1.  Master the Coding Interview: Big Tech (FAANG) Interviews (Udemy) のシャドーイング<br>2. English Grammar in Use Book、英語耳 発音ができるとリスニングができるによる文法・リスニング力強化  | 
 | 2   | Coding Interview | 1. Atcoder 典型問題90門突破<br>2. Atcoder A問題全クリア<br>3. Atcoder B問題全クリア<br>4. Atcoder C問題全クリア<br>5. Atcoder 水色達成                                                              | 
 | 3   | Else             | 1. 面談レビュー実施<br>2. ポートフォリオ最低10種の公開                                                                                                                                              | 
