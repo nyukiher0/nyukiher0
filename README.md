@@ -7,7 +7,7 @@
 - <strong> 名前（Name）： Yukihiro（nyukiher0）</strong>
 
 - 所属（Affiliation）： 
-  2020.4-2023.6：株式会社NTTドコモ（新規事業開発）
+  2020.4-2023.6：株式会社NTTドコモ（新規事業開発）<br>
   <strong>2023.7-：Amazon Web Services Japan合同会社（クラウドサポート）</strong>
 
 - 趣味（Hobby）： 読書 / 犬・猫 / お散歩 / ドライブ / プログラミング / 美味しいもの巡り
